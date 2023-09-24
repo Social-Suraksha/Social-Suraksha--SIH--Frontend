@@ -7,7 +7,7 @@
 .container{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,50,0.8),rgba(0,0,50,0.8)),url(backgroun2.jpeg);
+    background: linear-gradient(90deg, #e40952 0%, #000000 100%);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -27,7 +27,7 @@
 .form-box h1{
     font-size: 30px;
     margin-bottom: 60px;
-    color: #3c00a0;
+    color: #bdb6c8;
     position: relative;
 }
 .form-box h1::after{
@@ -43,7 +43,7 @@
 }
 
 .input-field{
-    bacground: #eaeaea;
+    background: #eaeaea;
     margin: 15px 0;
     border-radius: 3px;
     display: flex;
